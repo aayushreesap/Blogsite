@@ -1,0 +1,264 @@
+.date-section {
+  color: #b2beb5;
+  font-size: 12px;
+  font-weight: small;
+  text-align: center;
+  padding-top: 5px;
+  padding-left: 45%;
+}
+
+.search-section {
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: right;
+  margin: 0px;
+  height: 10px;
+  padding-left: 30%;
+}
+
+.login-section {
+  float: right;
+  margin-right: 4%;
+  padding-left: 23px;
+  padding-top: 2px;
+  font-size: 10px;
+}
+
+hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 92%;
+  margin-left: 4%;
+}
+
+.login-button {
+  background-color: lightgrey;
+  border: none;
+  padding: 5px 15px;
+  font-size: 10px;
+}
+
+.title-name {
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: serif;
+}
+
+.navbar-items {
+  width: 100%;
+  padding-left: 20%;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding-bottom: 5px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  padding: 8px;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.epaper-section {
+  float: right;
+  padding-top: 3.5px;
+  margin-right: 4%;
+  font-size: 10px;
+  font-weight: bold;
+  color: blue;
+}
+
+main {
+  margin-left: 4%;
+  padding-top: 15px;
+}
+
+.main-article-section {
+  width: 300px;
+}
+
+.article1-img {
+  position: relative;
+  height: 350px;
+}
+
+.text-block {
+  position: absolute;
+  width: 400px;
+  background-color: white;
+  color: black;
+  padding-left: 10px;
+  font-family: serif;
+  margin-top: -35px;
+  margin-left: 10px;
+  text-align: left;
+  display: flex;
+}
+
+.article-tex1,
+p {
+  position: absolute;
+  margin-top: 30px;
+  width: 500px;
+  padding-left: -3px;
+  font-size: 13px;
+}
+
+.top-stories-section {
+  display: flex;
+  margin-left: 530px;
+  margin-top: -350px;
+  width: 150px;
+}
+
+.top-stories,
+h6 {
+  font-weight: normal;
+  font-size: 14px;
+  background-color: yellow;
+  width: 100px;
+  height: 25px;
+  padding-top: 3px;
+  padding-left: 5px;
+}
+.top-stories-heading {
+  margin-left: -100px;
+}
+.heading-1 {
+  font-family: serif;
+  font-size: 14px;
+  font-weight: normal;
+  width: 270px;
+  padding-top: 10px;
+}
+
+.heading-2 {
+  padding-top: 65px;
+  font-family: serif;
+  font-size: 14px;
+  width: 270px;
+}
+
+.heading-3 {
+  padding-top: 120px;
+  font-family: serif;
+  font-size: 14px;
+  width: 270px;
+}
+
+.heading-4 {
+  padding-top: 170px;
+  font-family: serif;
+  font-size: 14px;
+  width: 270px;
+}
+
+.heading-5 {
+  padding-top: 230px;
+  font-family: serif;
+  font-size: 14px;
+  width: 270px;
+}
+.heading-6 {
+  padding-top: 285px;
+  font-family: serif;
+  font-size: 14px;
+  width: 270px;
+}
+
+.heading-7 {
+  padding-top: 340px;
+  font-family: serif;
+  font-size: 14px;
+  width: 270px;
+}
+
+.line-1 {
+  margin-top: 400px;
+  margin-left: -2px;
+  width: 67%;
+  padding: 1px;
+}
+
+.quick-bites-section {
+  display: flex;
+  margin-left: 880px;
+  margin-right: 45px;
+  margin-top: -445px;
+  height: 330px;
+  background-color: #f0f0f0;
+  border-radius: 1px;
+}
+
+.quick-bites {
+  display: flex;
+}
+
+.quick-bites-heading {
+  padding-top: 20px;
+  margin-left: -40px;
+  font-weight: normal;
+  font-family: serif;
+  font-weight: 540;
+  width: 250px;
+}
+
+.quick-bites-text {
+  padding-top: 50px;
+  margin-left: -125px;
+  width: 250px;
+}
+
+.next {
+  padding-top: 125px;
+  margin-left: -60px;
+  font-weight: bold;
+  color: blue;
+  padding-right: 5px;
+}
+.quick-bites-email-section {
+  padding-top: 350px;
+  margin-left: -280px;
+}
+
+.quick-bites-email-heading {
+  font-size: 18px;
+  margin-left: px;
+  color: blue;
+  font-family: serif;
+}
+
+.email-textbox {
+  margin-top: 3px;
+}
+
+.featured-section {
+  margin-top: 90px;
+}
+
+.featured-text {
+  width: 75px;
+  background-color: #a9a9a9;
+  color: #282828;
+  text-align: center;
+}
+
+.text-2 {
+  margin-left: 75px;
+  margin-top: 7px;
+  width: 600px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.view-all {
+  padding-left: 700px;
+  margin-top: -20px;
+  width: 200px;
+  color: blue;
+}
